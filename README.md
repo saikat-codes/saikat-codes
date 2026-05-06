@@ -63,7 +63,7 @@ Hi! I'm **Saikat Das**, an Electrical Engineering undergrad at **NIT Durgapur** 
 | ✅ Done | JavaScript (Core + ES6+) |
 | ✅ Done | React Basics |
 | ✅ Done | Git & GitHub |
-| 🔄 In Progress | Tailwind CSS |
+| ✅ Done | Tailwind CSS |
 | 🔄 In Progress | Node.js & Express |
 | 🔄 In Progress | Data Structures & Algorithms |
 | ⏳ Up Next | REST APIs & Backend Architecture |
