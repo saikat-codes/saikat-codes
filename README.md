@@ -7,7 +7,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-das-698a5b2a2)
-[![📧 Personal](https://img.shields.io/badge/📧%20Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikat612006@gmail.com)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saikat-codes.github.io/portfolio-site/)
+[![ Personal](https://img.shields.io/badge/📧%20Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikat612006@gmail.com)
 [![🎓 Institute](https://img.shields.io/badge/🎓%20Institute-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sd.25u10707@nitdgp.ac.in)
 
 </div>
@@ -120,6 +121,18 @@ Hi! I'm **Saikat Das**, an Electrical Engineering undergrad at **NIT Durgapur** 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saikat-codes&label=Profile%20Views&color=0e75b6&style=flat)
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikat-codes/saikat-codes/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikat-codes/saikat-codes/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saikat-codes/saikat-codes/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
