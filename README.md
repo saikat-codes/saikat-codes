@@ -21,7 +21,6 @@ Hi! I'm **Saikat Das**, an Electrical Engineering undergrad at **NIT Durgapur** 
 
 - 🔭 Currently diving deep into **Full-Stack Web Development**
 - 🐧 Passionate Linux tinkerer — always distro-hopping or ricing my desktop
-- ⚡ EE student who codes more than he solders
 - 📬 Reach me at **saikat612006@gmail.com** or **sd.25u10707@nitdgp.ac.in**
 
 ---
@@ -67,16 +66,8 @@ Hi! I'm **Saikat Das**, an Electrical Engineering undergrad at **NIT Durgapur** 
 | 🔄 In Progress | Node.js & Express |
 | 🔄 In Progress | Data Structures & Algorithms |
 | ⏳ Up Next | REST APIs & Backend Architecture |
-| ⏳ Up Next | Databases (MongoDB / PostgreSQL) |
+| ⏳ Up Next | Databases (- [ ] MongoDB / - [ ] PostgreSQL) |
 | ⏳ Up Next | Full Stack Projects |
-
----
-
-## 🎲 Fun Facts & Hobbies
-
-- 🐧 I spend way too much time perfecting my Linux rice — it's an addiction, not a hobby
-- 🔧 If it can be tinkered with, I will tinker with it
-- ⚡ The irony of an EE student building web apps is not lost on me
 
 ---
 
