@@ -66,7 +66,7 @@ Hi! I'm **Saikat Das**, an Electrical Engineering undergrad at **NIT Durgapur** 
 | 🔄 In Progress | Node.js & Express |
 | 🔄 In Progress | Data Structures & Algorithms |
 | ⏳ Up Next | REST APIs & Backend Architecture |
-| ⏳ Up Next | Databases (- [ ] MongoDB / - [ ] PostgreSQL) |
+| ⏳ Up Next | Databases ( MongoDB / PostgreSQL) |
 | ⏳ Up Next | Full Stack Projects |
 
 ---
