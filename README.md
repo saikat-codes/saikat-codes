@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Saikat Das**, an Electrical Engineering undergrad at **NIT Durgapur** who got bitten by the programming bug and never looked back. I love building things for the web and tinkering endlessly with my Linux setup.
+Hi! I'm **Saikat Das**, an Electrical Engineering undergrad at **NIT Durgapur**. I love building things for the web and tinkering endlessly with my Linux setup.
 
 - 🔭 Currently diving deep into **Full-Stack Web Development**
 - 🐧 Passionate Linux tinkerer — always distro-hopping or ricing my desktop
