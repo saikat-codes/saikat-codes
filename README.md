@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-das-698a5b2a2)
-[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saikat-codes.github.io/portfolio-site/)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-liart-ten-81.vercel.app/)
 [![ Personal](https://img.shields.io/badge/📧%20Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikat612006@gmail.com)
 [![🎓 Institute](https://img.shields.io/badge/🎓%20Institute-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sd.25u10707@nitdgp.ac.in)
 
