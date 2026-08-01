@@ -127,7 +127,3 @@ Hi! I'm **Saikat Das**, an Electrical Engineering undergrad at **NIT Durgapur**.
 </div>
 
 ---
-
-<div align="center">
-  <i>💡 "Everybody in this country should learn to program a computer, because it teaches you how to think." — Steve Jobs</i>
-</div>
